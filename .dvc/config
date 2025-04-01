@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = cheese_dataset
+['remote "cheese_dataset"']
+    url = gs://cheese-app-data-versioning-yl/dvc_store
